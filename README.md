@@ -22,7 +22,7 @@ Choose a challenge from the list of available challenges below. For instance, le
 The term within square brackets is the *nickname*. To play it, **add** your solution to the file `test/hashChallenges.ts`, in the position indicated in the file itself, and then **test** your solution with
 
 ```shell
-npm test hashes
+npm run hashes
 ```
 
 which is equivalent to
