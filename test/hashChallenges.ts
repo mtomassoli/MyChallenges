@@ -1,3 +1,6 @@
+// Solidity dependencies:
+//   contracts/HashChallenges.sol
+
 import {ethers} from "hardhat";
 import {expect} from "chai";
 import {BigNumber} from "ethers";
